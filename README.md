@@ -1,19 +1,19 @@
 # Movie Recommendation System
 
-A simple content-based movie recommendation system developed using Python and Scikit-Learn.
+A simple movie recommendation system developed using Python and Pandas.
 
 ## Features
 
-- Recommends movies based on genres
-- Uses cosine similarity
+- Recommends movies based on genre
+- Filters movies using minimum user rating
+- Simple command-line interface
 - Beginner-friendly implementation
 
-## Technologies
+## Technologies Used
 
 - Python
 - Pandas
-- Scikit-Learn
-- NumPy
+- CSV Dataset
 
 ## Run
 
